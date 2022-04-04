@@ -1,0 +1,3 @@
+void main(){
+print("Assalamu alaykum Team№1")ж
+}

@@ -1,3 +1,5 @@
 void main(){
-print("Assalamu alaykum Team№1")ж
+print("Assalamu alaykum Team№1");
+
+print("Vaalaykum assalam va rohmatulloh");
 }
